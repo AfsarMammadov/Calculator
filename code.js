@@ -168,3 +168,4 @@ equal.onclick=function () {
         }
     }
 }
+// smal change
